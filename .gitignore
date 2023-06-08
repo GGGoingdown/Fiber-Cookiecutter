@@ -1,0 +1,4 @@
+# This script will overwrite the app.env file
+overwrite.env 
+
+*.log
